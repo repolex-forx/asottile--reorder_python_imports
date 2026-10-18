@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/reorder_python_imports/commit/c64f4b028fa4a84e737010bdec6d6964995c305c",
       "git:hexsha": "c64f4b028fa4a84e737010bdec6d6964995c305c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/reorder_python_imports/commit/f3dfe379d2ea341c6cf54d926d4585b35dea9251",
